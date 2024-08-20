@@ -1,0 +1,42 @@
+{
+  "originHash" : "7522f343d856c9bef7b1d34e644e55b23907483f72634b850979ed6b8e404412",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zuhrrl/Core.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "215e81c61b923454322a5c50bf268ae87071c707"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "c2552e1d36867cb42b28130e894a81fc17081062",
+        "version" : "14.12.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "39e62e504ef5be53fd81015c35cfef8e848b8bec"
+      }
+    }
+  ],
+  "version" : 3
+}
